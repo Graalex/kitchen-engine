@@ -1,0 +1,23 @@
+{
+  "name": "kitchen-engine",
+  "version": "0.0.0",
+  "description": "JavaScript library engine constructor kitchen.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Graalex/kitchen-engine.git"
+  },
+  "contributors": {
+    "name": "Grigorchuk Aleksandr",
+    "email": "aleksandr.grigorchuk@gmail.com"
+  },
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Graalex/kitchen-engine/issues"
+  },
+  "homepage": "https://github.com/Graalex/kitchen-engine",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "~0.5.1",
+    "grunt-contrib-concat": "~0.5.0"
+  }
+}
